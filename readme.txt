@@ -4,3 +4,4 @@ git is free software.
 php is bast.
 git has a mutable
 git tracks changes.
+changes of files.
